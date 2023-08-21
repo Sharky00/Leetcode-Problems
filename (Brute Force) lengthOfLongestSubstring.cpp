@@ -1,3 +1,5 @@
+//Sharik Mahmood - Learning Outcome: This is an initial attemt to lengthOfLongestSubstring problem in c++, I used brute force but wasnt happy with outcome
+// check my JS version of this problem for a better solution incorperating the "sliding window" technique
 class Solution {
 public:
     bool isIn(vector<char> V, char c) // checks to see if Substring is already recorded in our vector
