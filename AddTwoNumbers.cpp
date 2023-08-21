@@ -1,4 +1,4 @@
-/**
+/** Sharik Mahmood - Learning Outcome: mainly using and iterating through linked list, the rest was mainly basic math and simple algortihms.
  * Definition for singly-linked list.
  * struct ListNode {
  *     int val;
